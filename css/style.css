@@ -71,11 +71,7 @@ nav ul li a:hover {
 	position: absolute;
 	top: 50%;
 	left: 8%;
-<<<<<<< HEAD
-	transform: translateY(-50);
-=======
 	transform: translateY(-50%);
->>>>>>> ef163801a43d3dd6fe372dc18fe727b5676b0f00
 }
 
 h1 {
@@ -124,8 +120,6 @@ h4 {
 	top: 6px;
 	right: 6px;
 }
-<<<<<<< HEAD
-=======
 
 .about {
 	width: 100%;
@@ -190,4 +184,3 @@ button:hover {
 	border: 2px solid #f9004d;
 	cursor: pointer;
 }
->>>>>>> ef163801a43d3dd6fe372dc18fe727b5676b0f00
